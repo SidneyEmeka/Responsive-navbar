@@ -1,2 +1,3 @@
 ## RESPONSIVE NAVBAR
-A simple responsive navbar with HTML CSS and Javascript
+A simple responsive navbar
+## HTML CSS and Javascript
